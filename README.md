@@ -1,6 +1,6 @@
 # HERO PCB
 
-For more details check out https://hero.inventr.io
+For more details check out https://inventr.io/product/hero/
 
 License
 InventrKits invests time and resources providing this open source design, please support InventrKits and open-source hardware by purchasing products from InventrKits!
